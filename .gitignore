@@ -2,3 +2,4 @@
 *.csv
 *.docx
 *.DS_Store
+catboost_info/*
